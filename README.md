@@ -1,0 +1,2 @@
+# node-js---Passport
+In modern web applications, authentication can take a variety of forms. Passport is authentication middleware for Node. It is designed to serve a singular purpose: authenticate requests. 
